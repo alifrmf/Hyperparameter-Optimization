@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# <div style="background-color: #edeff1; padding:30px; font-size:15px; text-align:center; font-size:150%">
-#     <strong>Hyperparameter Optimization for Logistic Regression Algorithms</strong> 
+# Hyperparameter Optimization for Logistic Regression Algorithms
 
 # In[1]:
 
