@@ -1,4 +1,4 @@
-# Hyperparameter-Optimization ![license](https://img.shields.io/github/license/alifrmf/Hyperparameter-Optimization.svg)
+# Hyperparameter Optimization ![license](https://img.shields.io/github/license/alifrmf/Hyperparameter-Optimization.svg)
 
 **Hyperparameter Optimization for Logistic Regression Algorithms**
 
